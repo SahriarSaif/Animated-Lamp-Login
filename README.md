@@ -1,14 +1,23 @@
-💡 Lamp Login Animation
+Lamp Login Animation
 
-A modern interactive login page featuring a pull-string lamp animation, glowing effects, fireflies, and glassmorphism UI.
+Interactive Lamp Login UI using HTML, CSS, and JavaScript.
+
+Features
+
+- Pull-string lamp animation
+- Glassmorphism login form
+- Light glow & firefly effects
+- Responsive design
+
+Usage
+
+Open "index.html" in your browser.
 
 Preview
 
-"Lamp Login Animation" (preview.jpg)
+"Preview" (preview.jpg)
 
-Built With
+Developer
 
-- HTML
-- CSS
-- JavaScript
-- Font Awesome
+Sahriar Saif
+https://github.com/sahriarsaif
