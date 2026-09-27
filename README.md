@@ -1,2 +1,11 @@
-# Animated-Lamp-Login
-Animated lamp login UI with a dark glassmorphism design and interactive pull-string light effect.
+Lamp Login Animation
+
+Interactive lamp-themed login page with a pull-string light animation and glassmorphism UI.
+
+Preview
+
+"Preview" (preview.jpg)
+
+Tech
+
+HTML • CSS • JavaScript • Font Awesome
